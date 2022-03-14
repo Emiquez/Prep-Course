@@ -96,7 +96,7 @@ function promedioResultadosTest(resultadosTest) {
 function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
-  // Tu código:
+  // Tu código: 
   let final = 0;
   for (i = 0; i <= numeros.length; i++) {
     if (numeros[i] > final) {
